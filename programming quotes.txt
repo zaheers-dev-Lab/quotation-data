@@ -1,0 +1,40 @@
+Here are a few programming quotes with a similar vibe to **KISS (Keep It Simple, Stupid)** and **DRY (Don't Repeat Yourself)**:
+
+1. **YAGNI (You Aren't Gonna Need It)**
+   *“Always implement things when you actually need them, never when you just foresee that you need them.”* – Extreme Programming Principle
+
+2. **SOLID**
+   A set of design principles that aim to make software designs more understandable, flexible, and maintainable:
+
+   * **S**ingle Responsibility Principle
+   * **O**pen/Closed Principle
+   * **L**iskov Substitution Principle
+   * **I**nterface Segregation Principle
+   * **D**ependency Inversion Principle
+
+3. **WET (Write Everything Twice)**
+   The opposite of DRY, a term used to warn against overly repetitive code that can lead to redundancy.
+
+4. **RTFM (Read The Fine Manual)**
+   A cheeky reminder to always check the documentation before asking questions.
+
+5. **Fail Fast**
+   “Detect and respond to errors as soon as possible, rather than allowing them to propagate and cause bigger issues later.”
+
+6. **Good Enough Is the Enemy of Perfect**
+   The idea that striving for perfection can often delay or prevent progress. It's better to ship something functional and iterate on it.
+
+7. **Premature Optimization Is the Root of All Evil**
+   “Don’t optimize code until you’ve identified actual performance bottlenecks.”
+
+8. **There Are Only Two Hard Things in Computer Science: Cache Invalidation and Naming Things**
+   This is a funny but true statement about two of the most difficult aspects of programming.
+
+9. **Code Like You’re Going to Have to Maintain It for the Next 5 Years**
+   A reminder that maintainable, clean code pays off in the long run.
+
+10. **"If it works, don’t touch it."**
+    A reminder to avoid unnecessary changes to code that is already functioning as intended.
+
+Would you like to hear more?
+
